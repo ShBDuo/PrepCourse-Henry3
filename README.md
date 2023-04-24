@@ -1,2 +1,1 @@
-# PrepCourse-Henry3
-prueba de repositorio, modulo 2
+Prueba de como crear un repositorio y clonarlo de git hub a mi pc adada
